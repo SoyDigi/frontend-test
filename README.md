@@ -16,7 +16,7 @@
 
 El desafío consiste en desarrollar un módulo dentro de una aplicación para la gestión de actividades de personas que trabajan como Freelancers, donde se desea mostrar las interacciones que los Freelancers han tenido con sus diferentes clientes. 
 
-para el desarrollo de la prueba se proporcionarán **Wire Frames** del módulo a desarrollar, el cual tendrá dos funcionalidades básicas, explicadas a continuación.
+para el desarrollo de la prueba se proporcionarán **Wire Frames** del módulo a crear, el cual tendrá dos funcionalidades básicas, explicadas a continuación.
 
    - la primera funcionalidad es la **gestión de información** en donde se administrarán los datos asociados a los clientes, a partir de solicitudes enviadas al API, se deberán de mostrar y desplegar los menús y submenús indicados en el wireframe, junto con la información de los clientes, la cual podrá ser agregada, eliminada o actualizada, dependiendo de la acción realizada por el usuario.
      ![plot](./assets/wireframes/02.png)
@@ -34,7 +34,7 @@ para el desarrollo de la prueba se proporcionarán **Wire Frames** del módulo a
 
 ### Al completar el desafío
 
-   - Deberás enviar la solución asociada a un repositorio de **GitHub**, el cual debe de ser publico y compartirnos el enlace, el código de la solución deberá de estar en la rama main.
+   - Deberás enviar la solución asociada a un repositorio de **GitHub**, el cual debe de ser público y compartirnos el enlace, el código de la solución deberá de estar en la rama main.
 
    - Adicionalmente deberás de escribir un archivo **README** junto con las instrucciones detalladas, para correr el programa. 
 
