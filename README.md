@@ -18,15 +18,19 @@ El desafío consiste en desarrollar un módulo dentro de una aplicación para la
 
 para el desarrollo de la prueba se proporcionarán **Wire Frames** del módulo a crear, el cual tendrá dos funcionalidades básicas, explicadas a continuación.
 
-   - la primera funcionalidad es la **gestión de información** en donde se administrarán los datos asociados a los clientes, a partir de solicitudes enviadas al JsonServer API, se deberán de mostrar y desplegar los menús y submenús indicados en el wireframe, junto con la información de los clientes, la cual podrá ser agregada, eliminada o actualizada, dependiendo de la acción realizada por el usuario.
+   - la primera funcionalidad es la **gestión de información** en donde se administrarán los datos asociados a los clientes, a partir de solicitudes enviadas al JsonServer API, se deberán de mostrar y desplegar los menús y submenús indicados en el wireframe.
+
+   - la información de los clientes, podrá ser agregada, eliminada o actualizada, dependiendo de la acción realizada por el usuario.
      ![plot](./assets/wireframes/02.png)
 
    - el menú **Active seedbeds** se deberá de completar a partir de la información retornada por el JsonServer API.
 
    - la segunda funcionalidad a realizar es el **envío masivo de correos**. A continuación, se muestra la pantalla que dispara un modal para el envío masivo de correos.
      ![plot](./assets/wireframes/03.png)
-     
-   - sobre cada grupo de clientes o *seedbeds* mostrados en pantalla, se deberá de **desplegar un modal** mostrando la lista de personas a las que se enviará el correo, junto con el cuerpo de este (en este caso un *lorem ipsum*), no es necesario realizar el envío del correo, únicamente se debe de simular una solicitud al JsonServer API para que se "encargue" y mostrar el mensaje de envío exitoso, al finalizar se debe de cerrar el modal.
+
+   - sobre cada grupo de clientes o *seedbeds* mostrados en pantalla, se deberá de **desplegar un modal** mostrando la lista de personas a las que se enviará el correo, junto con el cuerpo de este (en este caso un *lorem ipsum*) 
+
+   - no es necesario realizar el envío del correo, únicamente se debe de simular una solicitud al JsonServer API para que se "encargue" y mostrar el mensaje de envío exitoso, al finalizar se debe de cerrar el modal.
 
 ### Funcionalidades del módulo
 
