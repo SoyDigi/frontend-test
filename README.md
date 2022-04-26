@@ -44,6 +44,11 @@ para el desarrollo de la prueba se proporcionarán **Wire Frames** del módulo a
 
 > Para realizar algunas de las funcionalidades descritas anteriormente se recomienda leer la documentación de [Json Server](https://www.npmjs.com/package/json-server)
 
+## User Interface Design (si aplica)
+La última parte del desafío es relativa a UI y consiste en aplicar la siguiente guía de marca al módulo desarrollado, creando una Interfaz de Usuario de alta fidelidad accesible (i.e, contraste, legibilidad, etc…)
+La familia tipográfica a utilizar es DM Sans, disponible en Google Fonts.
+<img width="360" alt="image" src="https://user-images.githubusercontent.com/99594880/165298156-f0194115-1581-4a46-aa69-9fe9ac4d4478.png">
+
 ## Al completar el desafío
 
    - Deberás enviar la solución asociada a un repositorio de **GitHub**, el cual debe de ser público y compartirnos el enlace, el código de la solución deberá de estar en la rama main.
