@@ -52,7 +52,7 @@ La familia tipográfica a utilizar es DM Sans, disponible en Google Fonts.
 
 ## Al completar el desafío
 
-   - Deberás enviar la solución asociada a un repositorio de **GitHub**, el cual debe de ser público y compartirnos el enlace, el código de la solución deberá de estar en la rama main.
+   - Deberás enviar la solución asociada a un repositorio de **GitHub**, el cual debe de ser **privado** y deberas de darle acceso a la persona que revisará tu solición (@ArturoHurtado7) y por ultimo compartir el enlace de la misma con nosostros.
 
    - Adicionalmente deberás de escribir un archivo **README** junto con las instrucciones detalladas, para correr el programa. 
 
